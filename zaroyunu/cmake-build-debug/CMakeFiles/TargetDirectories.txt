@@ -1,0 +1,3 @@
+C:/Users/omary/Desktop/zaroyunu/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/omary/Desktop/zaroyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omary/Desktop/zaroyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
