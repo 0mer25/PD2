@@ -1,0 +1,3 @@
+D:/ptr_dizi_birlestir/cmake-build-debug/CMakeFiles/array.dir
+D:/ptr_dizi_birlestir/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ptr_dizi_birlestir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
