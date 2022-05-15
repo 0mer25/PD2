@@ -1,0 +1,3 @@
+D:/Odev_4/cmake-build-debug/CMakeFiles/Odev_4.dir
+D:/Odev_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Odev_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
