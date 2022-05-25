@@ -1,0 +1,3 @@
+D:/Hastane/cmake-build-debug/CMakeFiles/Hastane.dir
+D:/Hastane/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Hastane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
